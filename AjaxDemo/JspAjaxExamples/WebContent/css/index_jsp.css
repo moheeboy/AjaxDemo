@@ -1,0 +1,22 @@
+#main{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.errorMessage{
+	margin-left: 5px;
+	color: red;
+	font-size: 12px;
+}
+
+#result{
+	font-size: 20px;	
+}
+
+.error{
+	color: red
+}
+
+input{
+	margin: 2px 0px 2px 0px;
+}
